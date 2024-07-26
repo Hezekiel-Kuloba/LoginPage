@@ -1,0 +1,8 @@
+.background-image {
+  background-image: url(../../assets/BackgroundImage.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  height: 800px;
+}
+
+
